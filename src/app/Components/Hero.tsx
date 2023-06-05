@@ -37,7 +37,7 @@ export default function Hero() {
                 </div>
                 <div className='lg:pl-0 mt-8 mx-auto basis-1/3'>
                     <div className=' bg-[#292750] w-[170px] h-[170px] sm:w-[200px] sm:h-[200px] md:w-[300px] md:h-[300px] rounded-full overflow-hidden mt-8 shadow-black shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(236,153,75,0.15)] '>
-                        <Image src={"/Saboor-pic.jpeg"} alt='profile picture' width={500} height={500} />
+                        <Image src={"/saboor-pic.jpeg"} alt='profile picture' width={500} height={500} />
                     </div>
                 </div>
             </div>
