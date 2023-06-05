@@ -24,7 +24,7 @@ const Projects = () => {
               My Portfolio
             </h2>
             <h1 className="title-font text-lg font-medium text-white mb-3">
-              Saboor Ahmed Khan's Portfolio Website
+              Saboor Ahmed Khan Portfolio Website
             </h1>
             <p className="leading-relaxed line-clamp-2">
               I build this website using typescript, NextJs and tailwind CSS and I also used 
@@ -54,7 +54,7 @@ const Projects = () => {
               My Portfolio
             </h2>
             <h1 className="title-font text-lg font-medium text-white mb-3">
-              Saboor Ahmed Khan's Portfolio Website
+              Saboor Ahmed Khan Portfolio Website
             </h1>
             <p className="leading-relaxed line-clamp-2">
               I build this website using typescript, NextJs and tailwind CSS and I also used 
@@ -83,7 +83,7 @@ const Projects = () => {
               My Portfolio
             </h2>
             <h1 className="title-font text-lg font-medium text-white mb-3">
-              Saboor Ahmed Khan's Portfolio Website
+              Saboor Ahmed Khan Portfolio Website
             </h1>
             <p className="leading-relaxed line-clamp-2">
               I build this website using typescript, NextJs and tailwind CSS and I also used 
